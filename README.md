@@ -2,7 +2,7 @@
     
 <img src="https://github.com/JeffJetton/apple1-worple/blob/main/img/screenshot.png" width="400">
 
-A Wordle-style puzzle game for the Apple 1. Features over 850 words, but small enough to run on systems with as little as 4K of RAM.
+A [Wordle](https://www.nytimes.com/games/wordle/index.html)-style puzzle game for the Apple 1. Features over 850 words, but small enough to run on systems with as little as 4K of RAM.
 
 
 ## Files in the Repo:
@@ -22,7 +22,6 @@ A Wordle-style puzzle game for the Apple 1. Features over 850 words, but small e
     * Typed version of program in "Woz Monitor" hex format
     * Many emulators will let you copy/paste or otherwise load this in
     * You can also send this over to a real Apple 1 (or replica/clone) via serial connection
-    * Once loaded in, enter `300R` to run
 
 * **words.txt**
     * Text file of words used by the game
