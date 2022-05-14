@@ -1,6 +1,6 @@
 # Apple 1 "Worple"
     
-<img src="https://github.com/JeffJetton/apple1-worple/blob/master/img/screenshot.png" width="400">
+<img src="https://github.com/JeffJetton/apple1-worple/blob/main/img/screenshot.png" width="400">
 
 A Wordle-style puzzle game for the Apple 1. Features over 850 words, but small enough to run on systems with as little as 4K of RAM.
 
